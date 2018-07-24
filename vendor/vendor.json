@@ -685,6 +685,12 @@
 			"revision": "b982704f8bb716bb608144408cff30e15fbde841"
 		},
 		{
+			"checksumSHA1": "h1d2lPZf6j2dW/mIqVnd1RdykDo=",
+			"path": "github.com/golang/snappy",
+			"revision": "2e65f85255dbc3072edf28d6b5b8efc472979f5a",
+			"revisionTime": "2018-05-18T05:39:59Z"
+		},
+		{
 			"checksumSHA1": "sOd6u/eTkieb8AgKxnXZ/C9/FhI=",
 			"path": "github.com/google/go-cmp/cmp",
 			"revision": "5411ab924f9ffa6566244a9e504bc347edacffd3",
@@ -892,6 +898,12 @@
 			"revision": "6bb64b370b90e7ef1fa532be9e591a81c3493e00"
 		},
 		{
+			"checksumSHA1": "J47ySO1q0gcnmoMnir1q1loKzCk=",
+			"path": "github.com/hashicorp/go-sockaddr",
+			"revision": "6d291a969b86c4b633730bfc6b8b9d64c3aafed9",
+			"revisionTime": "2018-03-20T11:50:54Z"
+		},
+		{
 			"checksumSHA1": "mAkPa/RLuIwN53GbwIEMATexams=",
 			"path": "github.com/hashicorp/go-uuid",
 			"revision": "73d19cdc2bf00788cc25f7d5fd74347d48ada9ac"
@@ -962,10 +974,34 @@
 			"revisionTime": "2018-07-24T14:10:31Z"
 		},
 		{
+			"checksumSHA1": "bSdPFOHaTwEvM4PIvn0PZfn75jM=",
+			"path": "github.com/hashicorp/vault/helper/compressutil",
+			"revision": "b9adaf9c695966639d4c358efe2d132f5ff232ab",
+			"revisionTime": "2018-07-24T21:50:49Z"
+		},
+		{
 			"checksumSHA1": "RlqPBLOexQ0jj6jomhiompWKaUg=",
 			"path": "github.com/hashicorp/vault/helper/hclutil",
 			"revision": "00acb896a87a16e8b7463094b45e0a5b97388f18",
 			"revisionTime": "2018-07-24T18:27:01Z"
+		},
+		{
+			"checksumSHA1": "POgkM3GrjRFw6H3sw95YNEs552A=",
+			"path": "github.com/hashicorp/vault/helper/jsonutil",
+			"revision": "b9adaf9c695966639d4c358efe2d132f5ff232ab",
+			"revisionTime": "2018-07-24T21:50:49Z"
+		},
+		{
+			"checksumSHA1": "HA2MV/2XI0HcoThSRxQCaBZR2ps=",
+			"path": "github.com/hashicorp/vault/helper/parseutil",
+			"revision": "b9adaf9c695966639d4c358efe2d132f5ff232ab",
+			"revisionTime": "2018-07-24T21:50:49Z"
+		},
+		{
+			"checksumSHA1": "iwXQDzHqTFsjJW2ehYae0oLo2Ts=",
+			"path": "github.com/hashicorp/vault/helper/strutil",
+			"revision": "b9adaf9c695966639d4c358efe2d132f5ff232ab",
+			"revisionTime": "2018-07-24T21:50:49Z"
 		},
 		{
 			"checksumSHA1": "Gm2k+46HxKqsjI8lCWBp/jRaPrM=",
@@ -1279,6 +1315,12 @@
 			"path": "github.com/renstrom/fuzzysearch/fuzzy",
 			"revision": "2d205ac6ec17a839a94bdbfd16d2fa6c6dada2e0",
 			"revisionTime": "2016-03-31T20:48:55Z"
+		},
+		{
+			"checksumSHA1": "6JP37UqrI0H80Gpk0Y2P+KXgn5M=",
+			"path": "github.com/ryanuber/go-glob",
+			"revision": "256dc444b735e061061cf46c809487313d5b0065",
+			"revisionTime": "2017-01-28T01:21:29Z"
 		},
 		{
 			"checksumSHA1": "zmC8/3V4ls53DJlNTKDZwPSC/dA=",
